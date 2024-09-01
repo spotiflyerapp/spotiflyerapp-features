@@ -37,4 +37,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contact
 For any questions or feedback, please reach out to us at contact. spotiflyerapp1@gmail.com.
-you can check all your favourite songs at https://spotiflyerapp.pro/
+you can enjoy your all your favourite songs at https://spotiflyerapp.pro/
